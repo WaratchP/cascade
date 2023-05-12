@@ -2,6 +2,7 @@
 	#navigator-toolbox {
 		display: flex;
 		flex-wrap: wrap;
+		flex-direction: row;
 	}
 
 	#nav-bar {
