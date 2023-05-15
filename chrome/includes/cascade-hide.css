@@ -1,7 +1,7 @@
-#pocket-button-container {
+#pocket-button {
 	display: none !important;
 }
 
-#PanelUI-view-buttons {
+#viewButton {
 	display: none !important;
 }
