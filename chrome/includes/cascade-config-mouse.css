@@ -114,9 +114,9 @@
 }
 
 /* Hides the Extensions Menu Icon */
-/*#unified-extensions-button {
-/*	display: none !important;
-/*}
+#unified-extensions-button {
+	display: none !important;
+}
 
 #alltabs-button {
 	margin-top: 5px !important;
