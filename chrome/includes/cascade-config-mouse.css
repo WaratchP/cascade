@@ -22,13 +22,13 @@
 }
 
 /* remove window control buttons */
-.titlebar-buttonbox-container {
-	display: none !important;
-}
-
-#pageActionButton {
-	display: none !important;
-}
+/*.titlebar-buttonbox-container {
+/*	display: none !important;
+/*}
+/*
+/*#pageActionButton {
+/*	display: none !important;
+/*}
 
 /*---+---+---+---+---+---+---+
  | T | O | O | L | B | A | R |
