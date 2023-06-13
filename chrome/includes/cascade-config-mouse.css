@@ -118,6 +118,10 @@
 	display: none !important;
 }
 
+#star-button {
+	display: none;
+}
+
 #alltabs-button {
 	margin-top: 5px !important;
 }
