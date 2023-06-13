@@ -83,9 +83,9 @@
 #forward-button { display: none !important; } */
 
 /* Disables the Tracking Protection Shield */
-/*#tracking-protection-icon-container {
-/*	display: none !important;
-/*}
+#tracking-protection-icon-container {
+	display: none !important;
+}
 
 /* Encryption and Permissions icons */
 /* Only hides permission items */
